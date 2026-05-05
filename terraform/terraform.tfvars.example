@@ -1,0 +1,15 @@
+# ============================================================
+# terraform.tfvars
+# Lab 1 — Active Directory
+# Fill in your password before running terraform apply
+# NEVER commit this file to GitHub
+# ============================================================
+
+admin_username        = "vm-ADDS-lab"
+admin_password        = "YourStrongPassword@2026!"
+domain_name           = "lab.local"
+domain_admin_password = "YourStrongPassword@2026!"
+location              = "East US"
+dc_resource_group     = "vm-ADDS-lab_group"
+client_resource_group = "client01_group"
+vm_size               = "Standard_D2s_v3"
