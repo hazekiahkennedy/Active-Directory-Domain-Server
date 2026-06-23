@@ -1,6 +1,9 @@
 # Lab 1 — Active Directory
 *Windows Server 2025 · Azure · Identity & Access Management*
 
+## 📹 Video Walkthrough
+[Building an Active Directory Lab](https://www.loom.com/share/de16cd5885814fe7a3050db74c6bd0b1)
+
 | Field | Value |
 |---|---|
 | Certification alignment | CompTIA Network+ · Security+ · Azure Administrator |
